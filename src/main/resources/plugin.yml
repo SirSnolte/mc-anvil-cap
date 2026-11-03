@@ -1,5 +1,5 @@
 name: AnvilCap
-version: '1.0.0'
+version: '${version}'
 main: de.snolti.anvilcap.AnvilCap
 api-version: '26.3'
 description: Clamps anvil costs to 39 levels so "Too Expensive!" never appears.
